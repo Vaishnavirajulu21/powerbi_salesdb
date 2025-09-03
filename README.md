@@ -18,16 +18,6 @@ This project is a **Power BI Dashboard** that provides insights into employee at
 
 ---
 
-## 📂 Project Structure
-
-powerbi-dashboard/
-│── dashboard.pbix # Power BI file
-│── screenshots/ # Folder with screenshots
-│ └── Screenshot 2025-08-12 112400.png
-│── README.md # Project documentation
-
----
-
 ## 🚀 How to Use
 1. Open the `dashboard.pbix` file in **Power BI Desktop**.  
 2. Explore visuals and apply filters for deeper insights.  
